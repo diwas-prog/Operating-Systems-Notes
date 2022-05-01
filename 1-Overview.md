@@ -106,5 +106,6 @@ Protection | chmod(); umask(); chown();
 ## Linux Architecture 
 
 ![linuxarchitecture](images/linuxarch.png)
+https://www.youtube.com/watch?v=a0zXGhzPRp8
 
 <hr>
